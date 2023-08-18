@@ -385,7 +385,7 @@ footer {
 
 }
 a:link {
-  color: #178582;
+  color: #BFA181;
   background-color: transparent;
   text-decoration: none;
 }
@@ -395,12 +395,12 @@ a:hover {
   text-decoration: underline;
 }
 a:active {
-  color: #178582;
+  color: #BFA181;
   background-color: transparent;
   text-decoration: underline;
 }
 a:visited {
-  color: #178582;
+  color: #BFA181;
   background-color: transparent;
   text-decoration: none;
 }
