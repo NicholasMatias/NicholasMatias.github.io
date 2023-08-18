@@ -36,7 +36,7 @@ body {
 
  overflow-x: hidden;
 
- color: #523414;
+ color: #BFA181;
 
  background-color: #e9be5a;
 
@@ -52,7 +52,7 @@ body {
 
  font-weight: 700;
 
- color: #523414;
+ color: #178582;
 
  letter-spacing: -0.5px;
 
@@ -276,7 +276,7 @@ a {
 
  max-width: 45rem;
 
- background-color: #fcf7ff;
+ background-color: #BFA181;
 
  padding: 10rem 5rem;
 
@@ -368,7 +368,7 @@ a {
 .contact p {
 
  font-size: 2.2rem;
-    color: #462d12;
+    color: #BFA181;
     text-align: left;
     /*font-size: 13px;*/
 
@@ -379,13 +379,13 @@ footer {
 
  text-align: center;
 
- background-color: #e7ac21;
+ background-color: #0A1828;
 
  padding: 2.5rem;
 
 }
 a:link {
-  color: #462d12;
+  color: #178582;
   background-color: transparent;
   text-decoration: none;
 }
@@ -395,12 +395,12 @@ a:hover {
   text-decoration: underline;
 }
 a:active {
-  color: #462d12;
+  color: #178582;
   background-color: transparent;
   text-decoration: underline;
 }
 a:visited {
-  color: #462d12;
+  color: #178582;
   background-color: transparent;
   text-decoration: none;
 }
@@ -418,13 +418,13 @@ a:visited {
     
 }
 .back-to-top span{
-    color: black;
+    color: #178582;
     font-size: 3rem;
     transition:.2s ease-out;
     
 }
 .back-to-top hover{
-    background-color: black;
+    background-color: #178582;
     
 }
 .back-to-top:hover span{
