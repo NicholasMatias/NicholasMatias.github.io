@@ -457,13 +457,12 @@ footer {
     transform: translateY(-4px);
 }
 
-.text, .my-projects img{
+/*.text, .my-projects img{
   margin: 2px;
   transition: border 0.3s ease-in-out;
   border: 2px solid transparent; 
-}
+}*/
 
 .text, .my-projects img:hover{
 border: 5px solid #178582;
- margin: 0px; padding: 2px; 
 }
