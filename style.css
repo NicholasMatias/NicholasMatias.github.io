@@ -166,7 +166,6 @@ a {
  align-items: center;
 
  gap: 4.8rem;
- color: #178582;
 
 }
 
@@ -408,22 +407,23 @@ footer {
 
 
 
-.head a:link {
+.nav-links a:link {
   color: #178582;
   background-color: transparent;
   text-decoration: none;
 }
-.head a:hover {
+.nav-links a:hover {
   
   background-color: transparent;
   text-decoration: underline;
+  color:#178582;
 }
-.head a:active {
+.nav-links a:active {
   color: #178582;
   background-color: transparent;
   text-decoration: underline;
 }
-.head :visited {
+.nav-links :visited {
   color: #178582;
   background-color: transparent;
   text-decoration: none;
