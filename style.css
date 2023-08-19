@@ -427,6 +427,27 @@ footer {
   background-color: transparent;
   text-decoration: none;
 }
+
+
+.text a:link {
+  color: #178582;
+  background-color: transparent;
+  text-decoration: none;
+}
+.text a:hover {
+    background-color: transparent;
+  text-decoration: underline;
+}
+.text a:active {
+  color: #178582;
+  background-color: transparent;
+  text-decoration: none;
+}
+.text :visited {
+  color: #178582;
+  background-color: transparent;
+  text-decoration: none;
+}
 .back-to-top{
     position: fixed;
     bottom: 2rem;
