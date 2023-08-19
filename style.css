@@ -416,12 +416,11 @@ footer {
   
   background-color: transparent;
   text-decoration: underline;
-  color:#178582;
 }
 .nav-links a:active {
   color: #178582;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 .nav-links :visited {
   color: #178582;
