@@ -384,22 +384,22 @@ footer {
  padding: 2.5rem;
 
 }
-.contact-links a:link {
+.contact-links,.text a:link {
   color: #BFA181;
   background-color: transparent;
   text-decoration: none;
 }
-.contact-links a:hover {
+.contact-linksf,.text a:hover {
   
   background-color: transparent;
   text-decoration: underline;
 }
-.contact-links a:active {
+.contact-links,.text a:active {
   color: #BFA181;
   background-color: transparent;
   text-decoration: underline;
 }
-.contact-links a:visited {
+.contact-links,.text a:visited {
   color: #BFA181;
   background-color: transparent;
   text-decoration: none;
@@ -407,22 +407,22 @@ footer {
 
 
 
-.nav-links,.text a:link {
+.nav-links a:link {
   color: #178582;
   background-color: transparent;
   text-decoration: none;
 }
-.nav-links,.text a:hover {
+.nav-links a:hover {
   
   background-color: transparent;
   text-decoration: underline;
 }
-.nav-links,.text a:active {
+.nav-links a:active {
   color: #178582;
   background-color: transparent;
   text-decoration: none;
 }
-.nav-links,.text :visited {
+.nav-links :visited {
   color: #178582;
   background-color: transparent;
   text-decoration: none;
@@ -461,7 +461,7 @@ footer {
   border-radius: 50%;
   margin: 2px;
   transition: border 0.3s ease-in-out;
-  border: 2px solid transparent; /* Added */
+  border: 2px solid transparent; 
 }
 
 .text, .my-projects img:hover{
