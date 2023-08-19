@@ -384,23 +384,46 @@ footer {
  padding: 2.5rem;
 
 }
-a:link {
+.contact-links a:link {
   color: #BFA181;
   background-color: transparent;
   text-decoration: none;
 }
-a:hover {
+.contact-links a:hover {
   
   background-color: transparent;
   text-decoration: underline;
 }
-a:active {
+.contact-links a:active {
   color: #BFA181;
   background-color: transparent;
   text-decoration: underline;
 }
-a:visited {
+.contact-links a:visited {
   color: #BFA181;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+
+.nav-links a:link {
+  color: #178582;
+  background-color: transparent;
+  text-decoration: none;
+}
+.nav-links a:hover {
+  
+  background-color: transparent;
+  text-decoration: underline;
+}
+.nav-links a:active {
+  color: #178582;
+  background-color: transparent;
+  text-decoration: none;
+}
+.nav-links :visited {
+  color: #178582;
   background-color: transparent;
   text-decoration: none;
 }
