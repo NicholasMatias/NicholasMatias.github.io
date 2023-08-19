@@ -441,13 +441,13 @@ footer {
     
 }
 .back-to-top span{
-    color: #1d1e1e;
+    color: #178582;
     font-size: 3rem;
     transition:.2s ease-out;
     
 }
 .back-to-top hover{
-    background-color: #178582;
+    text-decoration: #178582;
     
 }
 .back-to-top:hover span{
