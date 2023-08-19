@@ -407,47 +407,29 @@ footer {
 
 
 
-.nav-links a:link {
+.nav-links,.text a:link {
   color: #178582;
   background-color: transparent;
   text-decoration: none;
 }
-.nav-links a:hover {
+.nav-links,.text a:hover {
   
   background-color: transparent;
   text-decoration: underline;
 }
-.nav-links a:active {
+.nav-links,.text a:active {
   color: #178582;
   background-color: transparent;
   text-decoration: none;
 }
-.nav-links :visited {
+.nav-links,.text :visited {
   color: #178582;
   background-color: transparent;
   text-decoration: none;
 }
 
 
-.text a:link {
-  color: #178582;
-  background-color: transparent;
-  text-decoration: none;
-}
-.text a:hover {
-    background-color: transparent;
-  text-decoration: underline;
-}
-.text a:active {
-  color: #178582;
-  background-color: transparent;
-  text-decoration: none;
-}
-.text :visited {
-  color: #178582;
-  background-color: transparent;
-  text-decoration: none;
-}
+
 .back-to-top{
     position: fixed;
     bottom: 2rem;
@@ -475,14 +457,14 @@ footer {
     transform: translateY(-4px);
 }
 
-img{
+.text, .my-projects img{
   border-radius: 50%;
   margin: 2px;
   transition: border 0.3s ease-in-out;
   border: 2px solid transparent; /* Added */
 }
 
-img:hover{
+.text, .my-projects img:hover{
 border: 5px solid #178582;
  margin: 0px; padding: 2px; 
 }
