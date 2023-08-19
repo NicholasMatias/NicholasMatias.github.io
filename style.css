@@ -407,22 +407,22 @@ footer {
 
 
 
-.nav-links a:link {
+.head a:link {
   color: #178582;
   background-color: transparent;
   text-decoration: none;
 }
-.nav-links a:hover {
+.head a:hover {
   
   background-color: transparent;
   text-decoration: underline;
 }
-.nav-links a:active {
+.head a:active {
   color: #178582;
   background-color: transparent;
   text-decoration: underline;
 }
-.nav-links :visited {
+.head :visited {
   color: #178582;
   background-color: transparent;
   text-decoration: none;
