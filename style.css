@@ -276,7 +276,7 @@ a {
 
  max-width: 45rem;
 
- background-color: #0A1828;
+ background-color: #012645;
 
  padding: 10rem 5rem;
 
@@ -384,22 +384,22 @@ footer {
  padding: 2.5rem;
 
 }
-.contact-links a:link {
+.contact-links,.text a:link {
   color: #BFA181;
   background-color: transparent;
   text-decoration: none;
 }
-.contact-links a:hover {
+.contact-linksf,.text a:hover {
   
   background-color: transparent;
   text-decoration: underline;
 }
-.contact-links a:active {
+.contact-links,.text a:active {
   color: #BFA181;
   background-color: transparent;
   text-decoration: underline;
 }
-.contact-links a:visited {
+.contact-links,.text a:visited {
   color: #BFA181;
   background-color: transparent;
   text-decoration: none;
@@ -427,6 +427,9 @@ footer {
   background-color: transparent;
   text-decoration: none;
 }
+
+
+
 .back-to-top{
     position: fixed;
     bottom: 2rem;
@@ -452,4 +455,14 @@ footer {
 }
 .back-to-top:hover span{
     transform: translateY(-4px);
+}
+
+/*.text, .my-projects img{
+  margin: 2px;
+  transition: border 0.3s ease-in-out;
+  border: 2px solid transparent; 
+}*/
+
+.text, .my-projects img:hover{
+border: 5px solid #178582;
 }
