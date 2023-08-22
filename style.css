@@ -209,7 +209,7 @@ a {
 
 
 
-.hero p{
+.alignment p{
 
  max-width: 75rem;
 
@@ -218,7 +218,7 @@ a {
  float: left;
 
 }
-.hero img{
+.alignment img{
   float: right;
 }
 
