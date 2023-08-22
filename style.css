@@ -384,22 +384,22 @@ footer {
  padding: 2.5rem;
 
 }
-.contact-links,.text a:link {
+.contact-links,.text a:link,.my-projects {
   color: #BFA181;
   background-color: transparent;
   text-decoration: none;
 }
-.contact-linksf,.text a:hover {
+.contact-linksf,.text,.my-projects a:hover {
   
   background-color: transparent;
   text-decoration: underline;
 }
-.contact-links,.text a:active {
+.contact-links,.text,.my-projects a:active {
   color: #BFA181;
   background-color: transparent;
   text-decoration: underline;
 }
-.contact-links,.text a:visited {
+.contact-links,.text,.my-projects a:visited {
   color: #BFA181;
   background-color: transparent;
   text-decoration: none;
