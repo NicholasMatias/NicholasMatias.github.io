@@ -230,6 +230,12 @@ a {
  margin: 4.8rem 0;
 
 }
+.hero-description p{
+  float: left;
+}
+.hero-description img{
+  float: right;
+}
 .my-projects {
 
  padding: 9.6rem 0;
