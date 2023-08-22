@@ -106,7 +106,7 @@ a {
 
 
 
-.first-fold {
+/*.first-fold {
 
  background-image: url(warehouse\ photo.jpg);
  background-repeat: no-repeat;
@@ -115,7 +115,7 @@ a {
  background-size: 20%;
  min-height: 80rem;
  margin-right: 15px;
-}
+}*/
 .header {
 
  display: flex;
