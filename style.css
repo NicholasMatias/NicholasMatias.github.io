@@ -215,7 +215,7 @@ a {
 
  padding: 0 9.6rem;
 
- align-items: left;
+ float: left;
 
 }
 .hero img{
