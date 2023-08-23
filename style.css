@@ -465,3 +465,24 @@ footer {
 .text, .my-projects img:hover{
 border: 5px solid #178582;
 }
+/*side by side fold code for the intro*/
+.setup{
+  background-color: #0A1828;
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  width: 60%;
+  margin: 10 rem auto 0 auto;
+
+}
+
+.setup img{
+  height:250px;
+  
+}
+.setup p{
+  color:#BFA181;
+  margin-right: 15px;
+  
+  
+}
