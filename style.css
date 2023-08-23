@@ -470,9 +470,10 @@ border: 5px solid #178582;
   background-color: #0A1828;
   display: flex;
   justify-content: space-between;
-  padding: 60px;
+  padding: 20px;
   width: 80%;
   margin: 20 rem auto 0 auto;
+  align-content:center;
 
 }
 
