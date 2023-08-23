@@ -471,18 +471,18 @@ border: 5px solid #178582;
   display: flex;
   justify-content: space-between;
   padding: 40px;
-  width: 60%;
-  margin: 10 rem auto 0 auto;
+  width: 80%;
+  margin: 20 rem auto 0 auto;
 
 }
 
 .setup img{
-  height:250px;
+  height:300px;
   
 }
 .setup p{
   color:#BFA181;
   margin-right: 15px;
-  
+
   
 }
