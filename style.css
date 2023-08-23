@@ -477,7 +477,9 @@ border: 5px solid #178582;
   /*align-content:center;*/
 
 }
-
+.additional{
+  padding-right:50px;
+}
 .setup img{
   height: 500px;
   
